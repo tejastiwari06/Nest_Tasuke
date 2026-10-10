@@ -1,0 +1,4 @@
+{"species": "Amur_Falcon", "call_type": "Normal", "zone": "Nagaland_Zone_A", "timestamp": "2026-08-27T05:09:32.365345", "month": 8, "is_migratory_species": true, "within_expected_season": false, "anomaly_flag": "Amur_Falcon detected outside typical migration window"}
+{"species": "Common_Myna", "call_type": "Normal", "zone": "Test_Zone", "timestamp": "2026-08-29T08:06:29.410566", "month": 8, "is_migratory_species": false}
+{"species": "Asian_Koel", "call_type": "Normal", "zone": "Zone_1", "timestamp": "2026-08-29T08:08:33.559060", "month": 8, "is_migratory_species": false}
+{"species": "Common_Myna", "call_type": "Distress", "zone": "Zone_1", "timestamp": "2026-08-29T08:08:38.297818", "month": 8, "is_migratory_species": false}
