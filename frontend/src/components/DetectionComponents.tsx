@@ -1,5 +1,5 @@
 import { Bird, Zap, AlertTriangle, CheckCircle } from 'lucide-react'
-import type { DetectionResult, EventRecord } from '../../types'
+import type { DetectionResult, EventRecord } from '../types'
 
 interface ConfidenceBarProps {
   value: number // 0 to 1
